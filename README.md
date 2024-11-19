@@ -1,4 +1,8 @@
 # Sales-Analysis-Forecasting
+<img width="1022" alt="Screenshot 2024-11-19 at 9 57 19 PM" src="https://github.com/user-attachments/assets/80e09e61-c638-4ff6-b7b3-cd70f25ae8d8">
+
+<img width="1022" alt="Screenshot 2024-11-19 at 9 57 39 PM" src="https://github.com/user-attachments/assets/10ce021f-b8d3-49bc-b6a7-26f57ec4c302">
+
 
 MY project on Sales Analysis & Forecasting demonstrates a structured approach to understanding sales trends and patterns using Python and pandas. Here's a summarized workflow of what I've accomplished and some insights based on my analysis:
 
